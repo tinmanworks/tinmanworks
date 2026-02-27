@@ -4,76 +4,40 @@ Systems engineering and robotics — building firmware, operating systems, frame
 
 ---
 
-## Engineering Scope
-
-I build systems across abstraction layers:
+## What I Build
 
 - Embedded control firmware
 - Operating systems experimentation
 - Robotics software and hardware integration
 - Custom rendering engines (Vulkan / OpenGL)
-- Application frameworks
-- Engineering tools and visualization platforms
+- Application frameworks and engineering tools
 - Cross-platform software systems
 
 ---
 
-## Platforms
+## Focus
 
-### AISA
-Embedded control firmware platform for robotics and autonomous systems.
-
-### TinkOS
-Custom operating system project focused on low-level system architecture and experimentation.
-
-### FrameKit
-Application development framework for structured, modular, and scalable software systems.
-
-### RadarScape
-Multifunctional engineering tool for processing and visualization.  
-Includes a custom graphics rendering engine built using Vulkan and OpenGL.
-
-### OneDeck
-LifeOS-style application platform focused on structured digital workflows and personal systems.
-
----
-
-## Robotics & Fabrication
-
-- Robotic arms
-- Quadruped robotic systems
-- Hardware/software co-design
-- 3D-printed mechanical systems
-- Home automation systems
-
----
-
-## Engineering Philosophy
-
-- Build platforms, not just applications.
-- Design for modularity and long-term scalability.
-- Separate core logic from interface layers.
-- Keep systems layered and composable.
-- Integrate hardware and software intentionally.
+Designing scalable systems across abstraction layers —  
+from low-level firmware and OS development  
+to graphics engines, robotics control, and platform software.
 
 ---
 
 ## Core Technologies
 
 **Systems:** C, C++, CMake  
-**Backend / Tools:** Python (FastAPI, Flask, Django, NumPy, TensorFlow, PyTorch)  
-**Applications:** Flutter, Web (HTML, CSS, JavaScript)  
+**Backend / Tools:** Python  
+**Applications:** Flutter, Web  
 **Graphics:** Vulkan, OpenGL  
-**Version Control:** Git  
 
 ---
 
 ## Direction
 
-Expanding platform-level systems that integrate:
+Platform-oriented engineering that integrates:
 
 - Firmware  
 - Operating systems  
 - Rendering engines  
-- Robotics control  
-- Cross-platform application layers  
+- Robotics  
+- Cross-platform applications  
