@@ -1,44 +1,44 @@
 # TinMan
 
-Platform-oriented engineering across the computing stack —  
+Engineering systems across abstraction layers —  
 from embedded firmware and operating systems  
-to robotics, rendering engines, and cross-platform systems.
+to robotics platforms, rendering engines, and cross-platform software.
 
 ---
 
-## What I Build
+## Domains
 
-- Embedded control firmware
-- Operating systems experimentation
+- Embedded systems and control firmware
+- Operating system development
 - Robotics software and hardware integration
-- Custom rendering engines (Vulkan / OpenGL)
+- Graphics and rendering engines
 - Application frameworks and engineering tools
-- Cross-platform software systems
+- Backend and computational systems
+- Mechanical design and rapid fabrication
 
 ---
 
-## Focus
+## Technologies
 
-Designing scalable, modular systems across abstraction layers.
+**Languages & Systems**
+C, C++, x86 Assembly, ARM Assembly  
+CMake  
+Python  
+HTML, CSS, JavaScript  
 
+**Frameworks & Libraries**
+FastAPI, Flask, Django  
+NumPy, TensorFlow, PyTorch  
+Flutter  
 
----
+**Graphics**
+Vulkan, OpenGL  
 
-## Core Technologies
+**Tooling & Emulation**
+Git  
+QEMU, Bochs  
 
-**Systems:** C, C++, CMake  
-**Backend / Tools:** Python  
-**Applications:** Flutter, Web  
-**Graphics:** Vulkan, OpenGL  
-
----
-
-## Direction
-
-Platform-oriented engineering that integrates:
-
-- Firmware  
-- Operating systems  
-- Rendering engines  
-- Robotics  
-- Cross-platform applications  
+**Mechanical & Fabrication**
+Fusion 360  
+Onshape  
+3D Printing  
