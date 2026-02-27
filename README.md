@@ -20,25 +20,28 @@ to robotics platforms, rendering engines, and cross-platform software.
 
 ## Technologies
 
-**Languages & Systems**
-C, C++, x86 Assembly, ARM Assembly  
-CMake  
+**Languages**  
+C, C++  
+x86 Assembly, ARM Assembly  
 Python  
 HTML, CSS, JavaScript  
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**  
 FastAPI, Flask, Django  
 NumPy, TensorFlow, PyTorch  
 Flutter  
 
-**Graphics**
+**Graphics**  
 Vulkan, OpenGL  
 
-**Tooling & Emulation**
+**Build & Tooling**  
+CMake  
 Git  
+
+**Emulation & Virtualization**  
 QEMU, Bochs  
 
-**Mechanical & Fabrication**
+**Mechanical & Fabrication**  
 Fusion 360  
 Onshape  
 3D Printing  
