@@ -1,6 +1,8 @@
 # TinMan
 
-Systems engineering and robotics — building firmware, operating systems, frameworks, engines, and engineering platforms.
+Platform-oriented engineering across the computing stack —  
+from embedded firmware and operating systems  
+to robotics, rendering engines, and cross-platform systems.
 
 ---
 
@@ -17,9 +19,8 @@ Systems engineering and robotics — building firmware, operating systems, frame
 
 ## Focus
 
-Designing scalable systems across abstraction layers —  
-from low-level firmware and OS development  
-to graphics engines, robotics control, and platform software.
+Designing scalable, modular systems across abstraction layers.
+
 
 ---
 
