@@ -6,7 +6,7 @@ to robotics platforms, rendering engines, and cross-platform software.
 
 ---
 
-## Domains
+## 🧠 Domains
 
 - Embedded systems and control firmware
 - Operating system development
@@ -18,30 +18,30 @@ to robotics platforms, rendering engines, and cross-platform software.
 
 ---
 
-## Technologies
+## ⚙️ Technologies
 
-### Languages
+### 💻 Languages
 C, C++  
 x86 Assembly, ARM Assembly  
 Python, Dart  
 HTML, CSS, JavaScript  
 
-### Frameworks & Libraries
+### 📦 Frameworks & Libraries
 FastAPI, Flask, Django  
 NumPy, TensorFlow, PyTorch  
 Flutter  
 
-### Graphics
+### 🎮 Graphics
 Vulkan, OpenGL  
 
-### Build & Tooling
+### 🛠 Build & Tooling
 CMake  
 Git  
 
-### Emulation & Virtualization
+### 🖥 Emulation & Virtualization
 QEMU, Bochs  
 
-### Mechanical & Fabrication
+### 🧩 Mechanical & Fabrication
 Fusion 360  
 Onshape  
 3D Printing  
