@@ -1,47 +1,11 @@
 # LooseWire
 
-Engineering systems across abstraction layers —  
-from embedded firmware and operating systems  
-to robotics platforms, rendering engines, and cross-platform software.
+I build systems that span hardware and software.
 
----
+Firmware, robotics, developer tools, graphics, and fabrication — especially the awkward boundaries where they meet.
 
-## 🧠 Domains
+## Focus
 
-- Embedded systems and control firmware
-- Operating system development
-- Robotics software and hardware integration
-- Graphics and rendering engines
-- Application frameworks and engineering tools
-- Backend and computational systems
-- Mechanical design and rapid fabrication
-
----
-
-## ⚙️ Technologies
-
-### 💻 Languages
-C, C++  
-x86 Assembly, ARM Assembly  
-Python, Dart  
-HTML, CSS, JavaScript  
-
-### 📦 Frameworks & Libraries
-FastAPI, Flask, Django  
-NumPy, TensorFlow, PyTorch  
-Flutter  
-
-### 🎮 Graphics
-Vulkan, OpenGL  
-
-### 🛠 Build & Tooling
-CMake  
-Git  
-
-### 🖥 Emulation & Virtualization
-QEMU, Bochs  
-
-### 🧩 Mechanical & Fabrication
-Fusion 360  
-Onshape  
-3D Printing  
+- Embedded systems and control software
+- Engineering tools and software platforms
+- Robotics, physical computing, and rapid fabrication
