@@ -1,4 +1,4 @@
-# TinMan
+# LooseWire
 
 Engineering systems across abstraction layers —  
 from embedded firmware and operating systems  
